@@ -30,13 +30,19 @@ A modern finance dashboard web application built with **React** and **Vite** for
 ```bash
 git clone https://github.com/avanishsinghav/Finance_project.git
 cd Finance_project/Client
+```
 
 ### 2. Clone the repository
+
+```bash
 npm install
+```
 
 ### 3. Run the development server
+
+```bash
 npm run dev
----
+```
 
 ## 📂 Project Structure
 
@@ -52,7 +58,5 @@ Finance_project/
 │ └─ vite.config.js
 ├─ README.md
 └─ .gitignore
-
-```
 
 ```
