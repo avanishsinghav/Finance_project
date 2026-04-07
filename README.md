@@ -51,7 +51,7 @@ npm run dev
 Finance_project/
 ├─ Client/ # Frontend code
 │ ├─ src/
-│ │ ├─ Component/ # React components (Charts, SummaryCards, Transactions, Insights)
+│ │ ├─ Component/ # React components (Charts, Insights,Navbar,Selector,SummaryCards, Transactions)
 │ │ ├─ App.jsx
 │ │ └─ index.css
 │ ├─ package.json
@@ -60,3 +60,24 @@ Finance_project/
 └─ .gitignore
 
 ```
+
+---
+
+## 🚀 Future Improvements
+
+- Task due dates
+- Search & filter tasks
+- Pagination for large data sets
+- Refresh token system for authentication
+- Role-based authentication
+- Docker support for easier deployment
+
+---
+
+## 👨‍💻 Author
+
+Avanish Singh singhavanish720@gmail.com
+
+---
+
+Thank you for reviewing this assignment 🙏
