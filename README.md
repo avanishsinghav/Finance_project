@@ -1,16 +1,58 @@
-# React + Vite
+# Finance Project 💰
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern finance dashboard web application built with **React** and **Vite** for managing and visualizing personal or business financial data.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+- Display income, expenses, and transactions
+- Interactive charts and insights
+- Summary cards for quick overview
+- Responsive design for desktop and mobile
+- Hot module replacement with Vite for faster development
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Frontend:** React, Vite, Tailwind CSS
+- **Charts & Data Visualization:** Chart.js / Recharts
+- **Package Manager:** npm
+- **Version Control:** GitHub
+
+---
+
+## ⚡ Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/avanishsinghav/Finance_project.git
+cd Finance_project/Client
+
+### 2. Clone the repository
+npm install
+
+### 3. Run the development server
+npm run dev
+---
+
+## 📂 Project Structure
+
+```
+
+Finance_project/
+├─ Client/ # Frontend code
+│ ├─ src/
+│ │ ├─ Component/ # React components (Charts, SummaryCards, Transactions, Insights)
+│ │ ├─ App.jsx
+│ │ └─ index.css
+│ ├─ package.json
+│ └─ vite.config.js
+├─ README.md
+└─ .gitignore
+
+```
+
+```
